@@ -18,6 +18,7 @@ You've found a Bug?
 
 ### Credits:
 Owner: [GamerMJay](https://github.com/GamerMJay)
-(Original plugin) (https://github.com/funniray/ProxyBroadcast)
+[Original plugin](https://github.com/funniray/ProxyBroadcast)
+[Icon](https://www.flaticon.com/free-icon/megaphone_11872940?term=broadcast&page=1&position=20&origin=search&related_id=11872940)
 
 Discord-Tag: `GamerMJay`
