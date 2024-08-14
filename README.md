@@ -9,9 +9,12 @@ You've found a Bug?
 - Describe your Bug in detail and provide necessary information
 
 ### Commands
-|**Command**|**Description**|
-|-----------|---------------|
-|`/pbc`|Send a broadcast message to all servers|
+|**Command**|**Description**|**Permissions**|
+|-----------|---------------|---------------|
+|`/pbc`|Send a broadcast message to all servers|broadcast.command|
+|`/pbroadcast`|Send a broadcast message to all servers|broadcast.command|
+
+### Permissions
 
 ### Credits:
 Owner: [GamerMJay](https://github.com/GamerMJay)
