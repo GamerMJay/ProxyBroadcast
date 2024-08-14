@@ -1,0 +1,5 @@
+broadcast:
+  prefix: "§b§lProxyBroadcast §r§8» §7"
+  no_permission_message: "§cYou do not have permission!"
+  usage_message: "§7Use §b/pbc <message>"
+  success_message: "§7The broadcast message was §asuccessfully §7sent to all servers§7."
