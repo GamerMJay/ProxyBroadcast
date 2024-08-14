@@ -41,7 +41,7 @@ public class BroadcastCommand extends Command {
         String subCommand = args[0].toLowerCase();
         if (subCommand.equals("version") || subCommand.equals("about") || subCommand.equals("ver")) {
             String versionMessage = prefix + "§7Plugin by §bGamerMJay\n" +
-                    prefix + "§7Website: §bhttps://example.com";
+                    prefix + "§7Website: §bhttps://github.com/GamerMJay";
             sender.sendMessage(versionMessage);
             return true;
         }
